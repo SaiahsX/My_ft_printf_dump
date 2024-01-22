@@ -1,0 +1,24 @@
+/*#include <stdio.h>
+
+#include <limits.h>
+
+int	main(void)
+{
+	// long x = 2147483649;
+	// int y = 1;
+	// char *str = "fish";
+	int test = 0;
+	// int oh = 15 / 16;
+	// int oh2 = 14 % 16;
+	// printf("ft_printf value = %d\n", ft_printf("The result is: %d\n", x));
+	// printf("Printf value = %d\n", 	printf("The result is: %d\n", x));
+	// ft_printf("ft_printf checking ft_printf value = %d\n", ft_printf("The result is: %d\n", x));
+	// ft_printf("ft_printf checking printf value = %d\n", printf("The result is: %d\n", x));
+	// printf("This is the format %%p = %p\n", test);
+	// printf("this is 15 / 16 %d\n", oh);
+	// printf("this is 15 %% 16 %d\n", oh2);
+	ft_printf("This is ft_printf format p: %p\n", test);
+	printf("This is printf format p: %p\n", test);
+	// return (0);
+}
+*/
